@@ -1,0 +1,3 @@
+puredata:
+  pkg:
+    - installed
